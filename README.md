@@ -5,7 +5,7 @@ Pflanzen erscheinen grün, weil sie grünes Licht reflektieren und somit grünes
 Für die Pflanzenbeleuchtung wurden daher spezielle sog. Grow (englisch für wachsen) LEDs entwickelt. Man bekommt sie oft sehr günstig direkt aus China, aber auch im Amazon Shop sind sie als fertige Leuchten erhältlich.
 Nur wie gut sind diese LEDs tatsächlich? Ohne spezielle Messgeräte kann man das nicht beurteilen. Ist eine rot-blau Beleuchtung wirklich optimal? Um hier ein wenig Licht in das Dunkel zu bringen und anderen dabei zu helfen Energie zu sparen, bessere Ergebnisse in der Pflanzenzucht zu erzielen und dadurch mehr Freude bei ihrem Hobby zu haben, entstand dieses Dokument. 
 
-Das komplette Dokument ist in diesem Repository und kann via diesem Direktlink https://raw.githubusercontent.com/JsBergbau/GrowLEDs/main/Grow%20LEDs.pdf heruntergeladen werden.
+Das komplette Dokument ist in diesem Repository und kann via diesem Direktlink https://raw.githubusercontent.com/JsBergbau/GrowLEDs/main/Grow%20LEDs.pdf heruntergeladen werden oder via https://github.com/JsBergbau/GrowLEDs/blob/main/Grow%20LEDs.pdf online direkt im Browser betrachtet werden. 
 
 Aktuell widme ich mich ganz anderen Themen, daher kann ich zurzeit kaum Weiterentwicklung leisten. Damit dieses Wissen nicht verlorengeht, habe ich alle Untersuchungsergebnisse eingearbeitet und hier zur Verfügung gestellt. Eine Diskussion untereinander ist gerne im Issues Bereich gesehen. 
 
