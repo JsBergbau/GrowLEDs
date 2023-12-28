@@ -9,66 +9,72 @@ Das komplette Dokument ist in diesem Repository und kann via diesem Direktlink h
 
 Aktuell widme ich mich ganz anderen Themen, daher kann ich zurzeit kaum Weiterentwicklung leisten. Damit dieses Wissen nicht verlorengeht, habe ich alle Untersuchungsergebnisse eingearbeitet und hier zur Verfügung gestellt. Eine Diskussion untereinander ist gerne im Issues Bereich gesehen. 
 
+Update Dezember 2023:
+Es wurde ein neues Luxmeter vorgestellt, eine Quelle von Thiamethoxam zur Schädlingsbekämpfung, zahlreiche neue weißen und wirtschaftlichen LEDs, insbesondere in E27-Form hinzugefügt, sowie die Vorteile von diffusem Licht nochmals herausgestellt.
+
 Einen Überblick über das Inhaltverzeichnis gibt es auch hier.
 
-## Inhaltsverzeichnis ...... 1
-## Einleitung / Motivation ...... 3
-##	Hintergrund ...... 4
-###	Spektrum des sichtbaren Lichts ...... 4
-###	Einheiten des Lichts ...... 4
-###	Das von Pflanzen genutzte Licht ...... 5
-###	Die Wirkung der Lichtwellenlängen ...... 8
-####	Das Phytochromsystem ...... 10
-###	Photorespiration und -Inhibition ...... 12
-##	Konkrete Beispiele für Grow-LEDs ...... 13
-###	LED-Leuchtstreifen ...... 13
-###	„Full Spectrum Grow LED“ ...... 14
-##	Fazit, Tipps und Empfehlungen ...... 19
-###	Lux-Meter ...... 19
-###	Tageslichtnutzung ...... 19
-###	Die optimale Beleuchtungsdauer ...... 20
-###	Gepulstes Licht ...... 28
-###	Weiße LEDs ...... 31
-####	Die Osram Substitube LED-Lampe ...... 32
-###	Kommerzielle LEDs für Pflanzenbeleuchtung ...... 33
-####	Growy Pflanzenzucht-LEDs ...... 33
-####	SANlight LEDs ...... 34
-###	Die Selbstbaulösung ...... 34
-####	Osram Oslon SSL ...... 34
-#####	Wirkungsgradbetrachtungen ...... 39
-####	Konstantstromquelle Meanwell LCM60 ...... 42
-####	LED-Empfehlung ...... 45
-#####	Oslon SSL Pflanzenleds oder LED-Röhren ...... 45
-#####	Leistungsfähige kompakte LED-Lampen mit E27 Gewinde als einfache Alternative ...... 47
-###	Die Anordnung von LEDs ...... 48
-####	Situation bei natürlichem Sonnenlicht ...... 49
-####	Beleuchtungssituation mit einer 60° LED ...... 50
-####	Beleuchtungssituation bei einer 120° LED mit Reflektion ...... 51
-####	Beleuchtungssituation bei flächig angeordneten LEDs ...... 52
-####	Beleuchtung mit zusätzlichem Seitenlicht ...... 53
-####	Beleuchtungsversuch: Vergleich Seitenlicht und Licht von oben ...... 54
-####	Exkurs zu Reflexionsmaterialien ...... 57
-###	Ein günstiger und flexibler Growschrank ...... 65
-###	Weitere Wachstumsbedingungen ...... 68
-####	Temperatur ...... 69
-####	CO2-Versorgung ...... 73
-####	Düngung ...... 76
-#####	EC-Wert ...... 80
-#####	pH-Wert ...... 87
-####	Substratwahl ...... 89
-#####	Generelles ...... 89
-#####	Aeroponik ...... 89
-#####	Ebbe-Flut-Systeme ...... 90
-#####	Herkömmliches Substrat ...... 91
-#####	Deep Water Culture (DWC) ...... 91
-####	Schädlingsbekämpfung ...... 93
-#####	Allgemeines ...... 93
-#####	Mechanische Bekämpfung ...... 94
-#####	Chemische Keule ...... 94
-#####	Biologische Bekämpfung ...... 95
-####	Weitere Effekte ...... 97
-#####	Die (In)Effizienz von Pflanzen bzw. Photosynthese ...... 99
-##	Schlussbemerkungen ...... 101
-##	Anhang ...... 102
+Inhaltsverzeichnis	1
+Einleitung / Motivation	4
+1	Hintergrund	5
+1.1	Spektrum des sichtbaren Lichts	5
+1.2	Einheiten des Lichts	5
+1.3	Das von Pflanzen genutzte Licht	6
+1.4	Die Wirkung der Lichtwellenlängen	9
+1.4.1	Das Phytochromsystem	11
+1.5	Photorespiration und -Inhibition	13
+2	Konkrete Beispiele für Grow-LEDs	14
+2.1	LED-Leuchtstreifen	14
+2.2	„Full Spectrum Grow LED“	15
+3	Fazit, Tipps und Empfehlungen	20
+3.1	Lux-Meter bzw. PAR-Meter	20
+3.2	Tageslichtnutzung	20
+3.3	Die optimale Beleuchtungsdauer	21
+3.4	Gepulstes Licht	30
+3.5	Weiße LEDs	33
+3.5.1	LEDs in klassischer T8 Leuchtstoffröhrenform	34
+3.6	Kommerzielle LEDs für Pflanzenbeleuchtung	35
+3.6.1	Growy Pflanzenzucht-LEDs	35
+3.6.2	SANlight LEDs	36
+3.7	Die Selbstbaulösung	36
+3.7.1	Osram Oslon SSL	36
+3.7.1.1	Wirkungsgradbetrachtungen	42
+3.7.2	Konstantstromquelle Meanwell LCM60	44
+3.7.3	LED-Empfehlung	47
+3.7.3.1	Oslon SSL Pflanzenleds oder LED-Röhren	47
+3.7.3.2	Leistungsfähige kompakte LED-Lampen mit E27 Gewinde als einfache Alternative	49
+3.8	Die Anordnung von LEDs	50
+3.8.1	Diffuses Licht	52
+3.8.2	Situation bei natürlichem Sonnenlicht	52
+3.8.3	Beleuchtungssituation mit einer 60° LED	53
+3.8.4	Beleuchtungssituation bei einer 120° LED mit Reflexion	55
+3.8.5	Beleuchtungssituation bei flächig angeordneten LEDs	56
+3.8.6	Beleuchtung mit zusätzlichem Seitenlicht	57
+3.8.7	Beleuchtungsversuch: Vergleich Seitenlicht und Licht von oben	58
+3.8.8	Exkurs zu Reflexionsmaterialien	61
+3.9	Ein günstiger und flexibler Growschrank	69
+3.10	Weitere Wachstumsbedingungen	72
+3.10.1	Temperatur	73
+3.10.2	CO2-Versorgung	77
+3.10.3	Düngung	80
+3.10.3.1	EC-Wert	84
+3.10.3.2	pH-Wert	91
+3.10.3.3	Blattdüngung	93
+3.10.4	Substratwahl	93
+3.10.4.1	Generelles	93
+3.10.4.2	Aeroponik	94
+3.10.4.3	Ebbe-Flut-Systeme	94
+3.10.4.4	Herkömmliches Substrat	95
+3.10.4.5	Deep Water Culture (DWC)	96
+3.10.5	Schädlingsbekämpfung	98
+3.10.5.1	Allgemeines	98
+3.10.5.2	Mechanische Bekämpfung	98
+3.10.5.3	Chemische Keule	99
+3.10.5.4	Biologische Bekämpfung	100
+3.10.6	Weitere Effekte	102
+3.10.6.1	Die (In)Effizienz von Pflanzen bzw. Photosynthese	104
+4	Schlussbemerkungen	106
+5	Anhang	107
+
 
 Hier gehts zum PDF https://raw.githubusercontent.com/JsBergbau/GrowLEDs/main/Grow%20LEDs.pdf 
