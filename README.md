@@ -12,6 +12,9 @@ Aktuell widme ich mich ganz anderen Themen, daher kann ich zurzeit kaum Weiteren
 Update Dezember 2023:
 Es wurde ein neues Luxmeter vorgestellt, eine Quelle von Thiamethoxam zur Schädlingsbekämpfung, zahlreiche neue weißen und wirtschaftlichen LEDs, insbesondere in E27-Form hinzugefügt, sowie die Vorteile von diffusem Licht nochmals herausgestellt.
 
+Update 2024 Januar bis Feburar 2024:
+App PPFD-Meter ergänzt, Erläuterungen zu SANLight LEDs überarbeitet, Mylar als weiteres Reflexionsmaterial getestet, kleinere Ergänzungen und Korrekturen
+
 Einen Überblick über das Inhaltverzeichnis gibt es auch hier.
 
 # Einleitung / Motivation
@@ -49,9 +52,13 @@ Einen Überblick über das Inhaltverzeichnis gibt es auch hier.
 ### Beleuchtungssituation bei einer 120° LED mit Reflexion
 ### Beleuchtungssituation bei flächig angeordneten LEDs
 ### Beleuchtung mit zusätzlichem Seitenlicht
-###
+### 
 Beleuchtungsversuch: Vergleich Seitenlicht und Licht von oben
 ### Exkurs zu Reflexionsmaterialien
+#### Alufolie, SW-Folie und Papier 
+#### Orca Grow Film
+#### Mylar-Folie
+#### Fazit Reflexionsmaterialien
 ## Ein günstiger und flexibler Growschrank
 ## Weitere Wachstumsbedingungen
 ### Temperatur
@@ -75,6 +82,7 @@ Beleuchtungsversuch: Vergleich Seitenlicht und Licht von oben
 #### Die (In)Effizienz von Pflanzen bzw. Photosynthese
 # Schlussbemerkungen
 # Anhang
+
 
 
 Hier gehts zum PDF https://raw.githubusercontent.com/JsBergbau/GrowLEDs/main/Grow%20LEDs.pdf 
